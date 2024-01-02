@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Tag Examples and Explanations</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f8f8f8;
+        }
+        div {
+            background-color: #e0e0e0;
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+        }
+        h1 {
+            color: #3498db;
+            font-size: 2em;
+        }
+        h2 {
+            color: #555;
+        }
+        p {
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>HTML Tag Examples and Explanations</h1>
+
+    <div>
+        <h2>Structural Tags</h2>
+        <p>&lt;html&gt;: Represents the root of an HTML document.</p>
+        <p>&lt;head&gt;: Contains meta-information about the HTML document.</p>
+        <p>&lt;title&gt;: Sets the title of the HTML document.</p>
+        <p>&lt;body&gt;: Contains the content of the HTML document.</p>
+    </div>
+
+    <div>
+        <h2>Heading Tags</h2>
+        <p>&lt;h1&gt; to &lt;h6&gt;: Define headings of different levels.</p>
+    </div>
+
+    <div>
+        <h2>Paragraph Tags</h2>
+        <p>&lt;p&gt;: Defines a paragraph.</p>
+    </div>
+
+    <div>
+        <h2>Formatting Tags</h2>
+        <p>&lt;strong&gt; or &lt;b&gt;: Represents strong importance or bold text.</p>
+        <p>&lt;em&gt; or &lt;i&gt;: Represents emphasized text or italic text.</p>
+        <p>&lt;u&gt;: Represents underlined text.</p>
+    </div>
+
+    <div>
+        <h2>List Tags</h2>
+        <p>&lt;ul&gt;: Defines an unordered list.</p>
+        <p>&lt;ol&gt;: Defines an ordered list.</p>
+        <p>&lt;li&gt;: Defines a list item.</p>
+    </div>
+
+    <div>
+        <h2>Anchor Tag</h2>
+        <p>&lt;a&gt;: Defines a hyperlink for creating links to other pages or resources.</p>
+    </div>
+
+    <div>
+        <h2>Image Tag</h2>
+        <p>&lt;img&gt;: Embeds images into the document.</p>
+    </div>
+
+    <div>
+        <h2>Table Tags</h2>
+        <p>&lt;table&gt;: Defines a table.</p>
+        <p>&lt;tr&gt;: Defines a table row.</p>
+        <p>&lt;td&gt;: Defines a table cell (data cell).</p>
+        <p>&lt;th&gt;: Defines a table header cell.</p>
+    </div>
+
+    <div>
+        <h2>Form Tags</h2>
+        <p>&lt;form&gt;: Defines an HTML form for user input.</p>
+        <p>&lt;input&gt;: Defines an input field.</p>
+        <p>&lt;button&gt;: Defines a clickable button.</p>
+    </div>
+
+    <div>
+        <h2>Division Tag</h2>
+        <p>&lt;div&gt;: Represents a division or section in an HTML document.</p>
+    </div>
+
+    <div>
+        <h2>Span Tag</h2>
+        <p>&lt;span&gt;: Used for applying styles to a specific part of text within a larger element.</p>
+    </div>
+
+    <div>
+        <h2>Comment Tags</h2>
+        <p>&lt;!-- Comment --&gt;: Used to add comments in the HTML code.</p>
+    </div>
+
+</body>
+</html>
